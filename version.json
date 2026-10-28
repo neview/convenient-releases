@@ -1,13 +1,13 @@
 {
-  "version": "1.0.3",
-  "versionCode": 4,
-  "notes": "更新检查多源并行并始终取最高版本；下载支持 GitHub 镜像自动切换与超时换源；主视觉标题排版和版本信息显示优化。覆盖安装会保留本地配置和登录态。",
-  "apkUrl": "https://gh.nxnow.top/https://github.com/neview/convenient-releases/releases/download/v1.0.3/shunshou.apk",
+  "version": "1.0.4",
+  "versionCode": 5,
+  "notes": "切换页签时自动暂停背景光斑动画，减少后台动效开销；主视觉标题排版与版本信息显示优化。覆盖安装会保留本地配置和登录态。",
+  "apkUrl": "https://gh.nxnow.top/https://github.com/neview/convenient-releases/releases/download/v1.0.4/shunshou.apk",
   "mirrors": [
-    "https://github.moeyy.xyz/https://github.com/neview/convenient-releases/releases/download/v1.0.3/shunshou.apk",
-    "https://ghfast.top/https://github.com/neview/convenient-releases/releases/download/v1.0.3/shunshou.apk",
-    "https://github.com/neview/convenient-releases/releases/download/v1.0.3/shunshou.apk"
+    "https://github.moeyy.xyz/https://github.com/neview/convenient-releases/releases/download/v1.0.4/shunshou.apk",
+    "https://ghfast.top/https://github.com/neview/convenient-releases/releases/download/v1.0.4/shunshou.apk",
+    "https://github.com/neview/convenient-releases/releases/download/v1.0.4/shunshou.apk"
   ],
-  "size": 35740905,
-  "publishedAt": "2026-10-28T09:05:00Z"
+  "size": 35741073,
+  "publishedAt": "2026-10-28T10:30:00Z"
 }
