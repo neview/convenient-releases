@@ -2,7 +2,7 @@
   "version": "1.0.1",
   "versionCode": 2,
   "notes": "全新视觉与交互动效升级；新增应用内检查更新；清空运行日志加入二次确认；四个页面细节统一。覆盖安装会保留本地配置和登录态。",
-  "apkUrl": "https://github.com/neview/convenient-releases/releases/latest/download/shunshou.apk",
+  "apkUrl": "https://gh.nxnow.top/https://github.com/neview/convenient-releases/releases/download/v1.0.1/shunshou.apk",
   "size": 35735489,
   "publishedAt": "2026-10-28T08:20:00Z"
 }
