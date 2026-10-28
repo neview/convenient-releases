@@ -1,8 +1,13 @@
 {
-  "version": "1.0.1",
-  "versionCode": 2,
-  "notes": "全新视觉与交互动效升级；新增应用内检查更新；清空运行日志加入二次确认；四个页面细节统一。覆盖安装会保留本地配置和登录态。",
-  "apkUrl": "https://gh.nxnow.top/https://github.com/neview/convenient-releases/releases/download/v1.0.1/shunshou.apk",
-  "size": 35735489,
-  "publishedAt": "2026-10-28T08:20:00Z"
+  "version": "1.0.2",
+  "versionCode": 3,
+  "notes": "更新检查改为多 CDN 并行，国内网络更快出结果；安装包下载支持镜像自动切换，超时自动换源；优化主视觉标题排版和版本信息显示。覆盖安装会保留本地配置和登录态。",
+  "apkUrl": "https://gh.nxnow.top/https://github.com/neview/convenient-releases/releases/download/v1.0.2/shunshou.apk",
+  "mirrors": [
+    "https://github.com/neview/convenient-releases/releases/download/v1.0.2/shunshou.apk",
+    "https://ghfast.top/https://github.com/neview/convenient-releases/releases/download/v1.0.2/shunshou.apk",
+    "https://github.moeyy.xyz/https://github.com/neview/convenient-releases/releases/download/v1.0.2/shunshou.apk"
+  ],
+  "size": 35739705,
+  "publishedAt": "2026-10-28T08:45:00Z"
 }
