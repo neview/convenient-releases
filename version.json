@@ -1,13 +1,13 @@
 {
-  "version": "1.0.4",
-  "versionCode": 5,
-  "notes": "切换页签时自动暂停背景光斑动画，减少后台动效开销；主视觉标题排版与版本信息显示优化。覆盖安装会保留本地配置和登录态。",
-  "apkUrl": "https://gh.nxnow.top/https://github.com/neview/convenient-releases/releases/download/v1.0.4/shunshou.apk",
+  "version": "1.0.6",
+  "versionCode": 7,
+  "notes": "界面按 Facebook 风格重构：发布页改为信息流；日报页精简，去掉底部重复的设置区；签到页合并账号与签到参数，布局更简洁；我的页更新封面并移除功能状态模块。体验码在没有发布记录时会置灰并提示原因。覆盖安装会保留本地配置和登录态。",
+  "apkUrl": "https://gh.nxnow.top/https://github.com/neview/convenient-releases/releases/download/v1.0.6/shunshou.apk",
   "mirrors": [
-    "https://github.moeyy.xyz/https://github.com/neview/convenient-releases/releases/download/v1.0.4/shunshou.apk",
-    "https://ghfast.top/https://github.com/neview/convenient-releases/releases/download/v1.0.4/shunshou.apk",
-    "https://github.com/neview/convenient-releases/releases/download/v1.0.4/shunshou.apk"
+    "https://github.moeyy.xyz/https://github.com/neview/convenient-releases/releases/download/v1.0.6/shunshou.apk",
+    "https://ghfast.top/https://github.com/neview/convenient-releases/releases/download/v1.0.6/shunshou.apk",
+    "https://github.com/neview/convenient-releases/releases/download/v1.0.6/shunshou.apk"
   ],
-  "size": 35741073,
-  "publishedAt": "2026-10-28T10:30:00Z"
+  "size": 36919921,
+  "publishedAt": "2026-10-31T09:22:19Z"
 }
