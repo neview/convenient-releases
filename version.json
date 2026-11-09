@@ -1,13 +1,13 @@
 {
-  "version": "1.0.7",
-  "versionCode": 8,
-  "notes": "修复积分签到跨天后仍显示“今日已签”的问题：新的一天自动恢复未签，可直接签到，不需要先刷新积分；从其他页面切回签到页或 App 回到前台时也会重新判断日期。已包含 1.0.6 的界面重构。覆盖安装会保留本地配置和登录态。",
-  "apkUrl": "https://gh.nxnow.top/https://github.com/neview/convenient-releases/releases/download/v1.0.7/shunshou.apk",
+  "version": "1.0.8",
+  "versionCode": 9,
+  "notes": "修复更新后签到提示“未经授权”需要手动退出重新登录的问题：登录态失效时自动用本机保存的密码重新登录并重试。修复账号详情等底部弹层在深色模式下底部导航条显示白色的问题。新增签到日历：本地记录每个账号每天的签到积分，可切换月份查看，本月合计一目了然。覆盖安装会保留本地配置、登录态和签到记录。",
+  "apkUrl": "https://gh.nxnow.top/https://github.com/neview/convenient-releases/releases/download/v1.0.8/shunshou.apk",
   "mirrors": [
-    "https://github.moeyy.xyz/https://github.com/neview/convenient-releases/releases/download/v1.0.7/shunshou.apk",
-    "https://ghfast.top/https://github.com/neview/convenient-releases/releases/download/v1.0.7/shunshou.apk",
-    "https://github.com/neview/convenient-releases/releases/download/v1.0.7/shunshou.apk"
+    "https://github.moeyy.xyz/https://github.com/neview/convenient-releases/releases/download/v1.0.8/shunshou.apk",
+    "https://ghfast.top/https://github.com/neview/convenient-releases/releases/download/v1.0.8/shunshou.apk",
+    "https://github.com/neview/convenient-releases/releases/download/v1.0.8/shunshou.apk"
   ],
-  "size": 36921101,
-  "publishedAt": "2026-11-03T02:01:54Z"
+  "size": 36933913,
+  "publishedAt": "2026-11-09T02:53:45Z"
 }
