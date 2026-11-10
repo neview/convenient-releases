@@ -1,13 +1,13 @@
 {
-  "version": "1.0.10",
-  "versionCode": 11,
-  "notes": "修复深色模式下手机底部手势条区域发白的问题：关闭系统导航栏的对比度蒙层，底部改为跟随应用主题的背景色，打开弹层时也保持一致。覆盖安装会保留本地配置和登录态。",
-  "apkUrl": "https://gh.nxnow.top/https://github.com/neview/convenient-releases/releases/download/v1.0.10/shunshou.apk",
+  "version": "1.0.11",
+  "versionCode": 12,
+  "notes": "修复深色模式下页面提示条（Toast）发白、文字看不清的问题：提示条底色与文字改为按主题取色，深色模式下是抬升的深色卡片。覆盖安装会保留本地配置和登录态。",
+  "apkUrl": "https://gh.nxnow.top/https://github.com/neview/convenient-releases/releases/download/v1.0.11/shunshou.apk",
   "mirrors": [
-    "https://github.moeyy.xyz/https://github.com/neview/convenient-releases/releases/download/v1.0.10/shunshou.apk",
-    "https://ghfast.top/https://github.com/neview/convenient-releases/releases/download/v1.0.10/shunshou.apk",
-    "https://github.com/neview/convenient-releases/releases/download/v1.0.10/shunshou.apk"
+    "https://github.moeyy.xyz/https://github.com/neview/convenient-releases/releases/download/v1.0.11/shunshou.apk",
+    "https://ghfast.top/https://github.com/neview/convenient-releases/releases/download/v1.0.11/shunshou.apk",
+    "https://github.com/neview/convenient-releases/releases/download/v1.0.11/shunshou.apk"
   ],
-  "size": 36926069,
-  "publishedAt": "2026-11-10T02:00:38Z"
+  "size": 36925901,
+  "publishedAt": "2026-11-10T02:10:43Z"
 }
