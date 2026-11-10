@@ -1,13 +1,13 @@
 {
-  "version": "1.0.9",
-  "versionCode": 10,
-  "notes": "深色模式下弹层底部导航栏已适配主题；签到日历移入账号详情，按账号记录每天获得的积分；清理各页面多余的小字说明，界面更简洁。覆盖安装会保留本地配置和登录态。",
-  "apkUrl": "https://gh.nxnow.top/https://github.com/neview/convenient-releases/releases/download/v1.0.9/shunshou.apk",
+  "version": "1.0.10",
+  "versionCode": 11,
+  "notes": "修复深色模式下手机底部手势条区域发白的问题：关闭系统导航栏的对比度蒙层，底部改为跟随应用主题的背景色，打开弹层时也保持一致。覆盖安装会保留本地配置和登录态。",
+  "apkUrl": "https://gh.nxnow.top/https://github.com/neview/convenient-releases/releases/download/v1.0.10/shunshou.apk",
   "mirrors": [
-    "https://github.moeyy.xyz/https://github.com/neview/convenient-releases/releases/download/v1.0.9/shunshou.apk",
-    "https://ghfast.top/https://github.com/neview/convenient-releases/releases/download/v1.0.9/shunshou.apk",
-    "https://github.com/neview/convenient-releases/releases/download/v1.0.9/shunshou.apk"
+    "https://github.moeyy.xyz/https://github.com/neview/convenient-releases/releases/download/v1.0.10/shunshou.apk",
+    "https://ghfast.top/https://github.com/neview/convenient-releases/releases/download/v1.0.10/shunshou.apk",
+    "https://github.com/neview/convenient-releases/releases/download/v1.0.10/shunshou.apk"
   ],
-  "size": 36925965,
-  "publishedAt": "2026-11-09T03:39:47Z"
+  "size": 36926069,
+  "publishedAt": "2026-11-10T02:00:38Z"
 }
